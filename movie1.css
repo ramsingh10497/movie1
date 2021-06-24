@@ -1,0 +1,11 @@
+#cont {
+  margin-top: 20px;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+}
+#cont > img {
+  height: 250px;
+  width: 350px;
+}
